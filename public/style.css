@@ -115,3 +115,47 @@ a:hover {
 		height: 80%;
 		position: fixed;
 }
+
+.container {
+		top: 150px;
+		left: 12%;
+		width: 92%;
+		height: 80%;
+		padding: 30px;
+		position: fixed;
+}
+
+.project {
+		position: relative;
+		padding-left: 3%;
+		padding-right: 6%;
+		top: 8%;
+		height: 400px;
+		width: 20%;
+		float: left;
+}
+
+#honeypot {
+	position: relative;
+		left: 2%;
+		bottom: 10%;
+}
+
+img {
+		max-width:120%;
+		max-height:120%;
+}
+
+.caption {
+		display: block;
+		text-align: center;
+		font-family: "Andale Mono", AndaleMono, monospace;
+}
+
+/*p {
+		font-family: "Andale Mono", AndaleMono, monospace;
+		position: absolute;
+	  top: auto;
+		text-align: center;
+		padding-right: 6%
+}*/
