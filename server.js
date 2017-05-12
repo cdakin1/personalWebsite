@@ -19,6 +19,6 @@ app.get('/projects', function(req, res) {
   res.sendFile(`${__dirname}/public/pages/projects.html`)
 })
 
-app.listen(80, () => {
+app.listen(8080, () => {
   console.log('listening on 80');
 });
