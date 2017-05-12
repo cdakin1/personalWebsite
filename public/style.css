@@ -125,6 +125,38 @@ a:hover {
 		position: fixed;
 }
 
+.container h1 {
+    font-family: sans-serif;
+    color: #b3bac6;
+    font-size: 40px;
+}
+
+.container p {
+    font-family: sans-serif;
+    color: #b3bac6;
+    width: 60%;
+    font-size: 22px;
+}
+
+.container li {
+    font-family: sans-serif;
+    color: #b3bac6;
+    list-style-type: none;
+}
+
+.container a {
+  font-family: sans-serif;
+  color: #b3bac6;
+}
+
+.container a:hover {
+    color: grey;
+}
+
+#welcome {
+  font-size: 50px;
+}
+
 .project {
 		padding-left: 3%;
 		padding-right: 6%;
@@ -132,7 +164,6 @@ a:hover {
 		height: 400px;
 		width: 33%;
 		float: left;
-
 }
 
 #honeypot {
@@ -152,7 +183,7 @@ img {
 		display: block;
 		text-align: center;
 		font-family: "Andale Mono";
-    color: #adb8c9;
+    color: #b3bac6;
 }
 
 #honeypot-caption {
